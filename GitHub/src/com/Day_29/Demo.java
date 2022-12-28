@@ -12,7 +12,11 @@ public class Demo {
 	public void m3()
 	{
 		System.out.println("Hello m3");
-	}		
+	}	
+	public void m4()
+	{
+		System.out.println("Hello m4s");
+	}
 	public static void main(String[] args) {
 		{
 			System.out.println("Hello github");
